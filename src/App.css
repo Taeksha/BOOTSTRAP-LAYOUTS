@@ -1,0 +1,76 @@
+.mains
+{
+    height: 750px;
+    width: 1300px;
+    
+    margin: 40px 50px;
+}
+.main
+{
+    height: 750px;
+    width: 1300px;
+    background-color: darkgray;
+    
+}
+.cards
+{
+    width: 350px;
+    height: 100px;
+    background-color: darkgray;
+}
+.main-card
+{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin: 40px 0px;
+}
+.sub-mains
+{   height: 1200px;
+    width:450px;
+    
+    margin: 40px 10px;
+
+}
+.sub-main
+{   height: 1160px;
+    width:450px;
+    background-color: lightgray;
+   
+
+}
+.para
+{
+    text-align: justify;
+    width: 100%;
+    line-height:35px;
+}
+.footer
+{
+    width: 100%;
+    height: 80px;
+    background-color: lightgray;
+    margin-top: 40px;
+}
+.title
+{
+    width:450px;
+    height: 50px;
+    background-color: gray;
+    
+}
+.image
+{
+    height: 200px;
+    width: 200px;
+    background-color: lightgray;
+    
+}
+.text
+{
+    margin: 0px 15px;
+}
+.textcontent
+{
+    width: 100%;
+}
